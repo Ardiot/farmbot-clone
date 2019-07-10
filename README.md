@@ -1,8 +1,8 @@
 # farmbot-clone
 Robot regador low cost basas¡do en arduino e impreso en 3d
 
-El robot se va moviendo , y cuando encuentre una tarjeta rfid bajara y regará 
-Como cada tag es diferente se puede programar para que solo riegue cuando uno quiere o si la tierra tiene una determinada humedad
+El robot se va moviendo , y cuando encuentre una tarjeta rfid bajara y regará  . 
+ Como cada tag es diferente se puede programar para que solo riegue cuando uno quiere o si la tierra tiene una determinada humedad ... 
 
 
 Piezas :
